@@ -1,4 +1,4 @@
-# 2020-04-28-git_collab_pv
+# Git Workshop Notes - Git Collaboration O'Reilly
 Git Collaboration Workshop
 
 - 'git clone <URL>': downloads the repository from the web to our computer
