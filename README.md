@@ -13,3 +13,8 @@ Git Collaboration Workshop
 - 'git checkout <branch_name>: old way of moving to branch
 - 'git switch -c <branch_name>
 
+- 'git fetch prune' to synch with repo
+- 'git branch -d <branch name> - delete branch
+
+Howdy
+
